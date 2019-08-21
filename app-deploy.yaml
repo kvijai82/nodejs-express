@@ -5,3 +5,4 @@ metadata:
 spec:
   applicationImage: 
   stack: nodejs-express
+  expose: true
