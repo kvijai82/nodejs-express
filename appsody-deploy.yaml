@@ -1,7 +1,0 @@
-apiVersion: appsody.dev/v1alpha1
-kind: AppsodyApplication
-metadata:
-  name: nodejs-exp
-spec:
-  applicationImage: REPLACE-IMAGE
-  stack: nodejs-express
