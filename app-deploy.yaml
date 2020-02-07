@@ -1,0 +1,8 @@
+apiVersion: appsody.dev/v1beta1
+kind: AppsodyApplication
+metadata:
+  name: REPLACE-NAME
+spec:
+  applicationImage: 
+  stack: nodejs-express
+  expose: true
